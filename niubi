@@ -143,6 +143,14 @@ proxies:
     password: "a13820c547fa34c5c45515c12f0cd576"
     udp: true
     skip-cert-verify: false
+    
+  - name: "韩国3"
+    type: Vmess
+    server: kr3.krmap.pw
+    port: 10052
+    password: "e92f9e38-f5ca-4f84-cf56-677b8c7054f7"
+    udp: true
+    skip-cert-verify: false
 
   - name: "加拿大"
     type: trojan
